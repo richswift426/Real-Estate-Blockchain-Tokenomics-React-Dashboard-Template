@@ -1,4 +1,4 @@
-# react-admin [![Build status](https://github.com/marmelab/react-admin/actions/workflows/test.yml/badge.svg)](https://github.com/marmelab/react-admin/actions/workflows/test.yml) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarmelab%2Freact-admin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarmelab%2Freact-admin?ref=badge_shield) [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+# Real-Estate-Blockchain-Tokenomics-React-Dashboard-Template [![Build status](https://github.com/marmelab/react-admin/actions/workflows/test.yml/badge.svg)](https://github.com/marmelab/react-admin/actions/workflows/test.yml) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarmelab%2Freact-admin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarmelab%2Freact-admin?ref=badge_shield) [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 A frontend Framework for building data-driven applications running in the browser on top of REST/GraphQL APIs, using ES6, [React](https://facebook.github.io/react/) and [Material Design](https://material.io/). Open sourced and maintained by [marmelab](https://marmelab.com/).
 
@@ -30,14 +30,10 @@ React-admin is available from npm. You can install it (and its required dependen
 using:
 
 ```sh
-npm install react-admin
+npm install react-admin-real-estate
 #or
-yarn add react-admin
+yarn add react-admin-real-estate
 ```
-
-## Documentation
-
-Read the [Tutorial](https://marmelab.com/react-admin/Tutorial.html) for a 30 minutes introduction. After that, head to the [Documentation](https://marmelab.com/react-admin/Readme.html), or checkout the [source code of the demo](https://github.com/marmelab/react-admin-demo) for an example usage.
 
 ## At a Glance
 
@@ -268,11 +264,6 @@ make doc
 
 And then browse to [http://localhost:4000/](http://localhost:4000/)
 
-## License
-
-React-admin is licensed under the [MIT License](https://github.com/marmelab/react-admin/blob/master/LICENSE.md), sponsored and supported by [marmelab](https://marmelab.com).
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarmelab%2Freact-admin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarmelab%2Freact-admin?ref=badge_large)
 
 ## Donate
 
